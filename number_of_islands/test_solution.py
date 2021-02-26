@@ -1,4 +1,4 @@
-from solution_sebastian import Solution as sebastian_solution
+from number_of_islands.solution_sebastian import Solution as sebastian_solution
 import pytest
 
 
